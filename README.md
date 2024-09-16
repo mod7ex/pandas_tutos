@@ -1,1 +1,1 @@
-> [2024 survey data](https://survey.stackoverflow.co/)
+> [2024 survey stackoverflow data](https://survey.stackoverflow.co/)
